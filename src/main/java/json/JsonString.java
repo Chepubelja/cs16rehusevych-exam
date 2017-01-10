@@ -15,7 +15,7 @@ public class JsonString extends Json {
         return "'" + string + "'";
     }
     @Override
-    public String toString(){
+    public String toString() {
         return string;
     }
 }
